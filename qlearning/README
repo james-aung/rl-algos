@@ -1,0 +1,3 @@
+Reimplementation of Q-learning with a DQN in PyTorch, following this tutorial https://www.youtube.com/watch?v=wc-FxNENg9U
+
+Tested on LunarLander-V2
