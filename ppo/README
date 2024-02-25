@@ -1,0 +1,4 @@
+Reimplementation of PPO with PyTorch, following this tutorial https://www.youtube.com/watch?v=hlv79rcHws0
+
+Tested on Cartpole-V1, training for 3000 games. See plots/cartpole.png for a plot of training - I was surprised to see such large dips as training progressed, is this to be expected?
+
